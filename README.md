@@ -63,15 +63,12 @@ The dataset contains real-world geopolitical and oil market related information 
 
 # Actual vs Predicted Graph
 
-![Prediction Graph](oil_project/ScreenShots/)
+![Prediction Graph](oil_project/ScreenShots/Comparison_graph.png)
 
----
+# Classification Metrics
+# Accuracy, Precision, Recall, F1 Score
 
-## 🎯 Classification Metrics
-
-### Accuracy, Precision, Recall, F1 Score
-
-![Metrics](https://dummyimage.com/1200x500/cccccc/000000&text=ADD+METRICS+IMAGE+URL+HERE)
+![Metrics](oil_project/ScreenShots/)
 
 ---
 
