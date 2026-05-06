@@ -59,7 +59,7 @@ The dataset contains real-world geopolitical and oil market related information 
 
 ## 📊 Dataset Preview
 
-![Dataset Preview](/ScreenShots/Screenshot(214).png)
+![Dataset Preview](ScreenShots/Screenshot (214).png)
 ---
 
 ## 📈 Actual vs Predicted Comparison
