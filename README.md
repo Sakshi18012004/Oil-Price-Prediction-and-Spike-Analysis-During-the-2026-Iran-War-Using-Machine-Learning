@@ -59,13 +59,11 @@ The dataset contains real-world geopolitical and oil market related information 
 
 # Actual vs Predicted Comparison
 
-![Comparison Table](oil_project/ScreenShots/
+![Comparison Table](oil_project/ScreenShots/Comparison.png)
 
----
+# Actual vs Predicted Graph
 
-## 📉 Actual vs Predicted Graph
-
-![Prediction Graph](https://dummyimage.com/1200x500/cccccc/000000&text=ADD+GRAPH+IMAGE+URL+HERE)
+![Prediction Graph](oil_project/ScreenShots/)
 
 ---
 
