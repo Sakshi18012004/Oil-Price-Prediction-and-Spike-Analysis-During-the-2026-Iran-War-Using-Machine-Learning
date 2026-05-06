@@ -68,7 +68,7 @@ The dataset contains real-world geopolitical and oil market related information 
 # Classification Metrics
 # Accuracy, Precision, Recall, F1 Score
 
-![Metrics](oil_project/ScreenShots/)
+![Metrics](oil_project/Classification_metrics.png)
 
 ---
 
