@@ -53,18 +53,13 @@ The dataset contains real-world geopolitical and oil market related information 
 - Streamlit
 - SMOTE
 
----
+# Project Screenshots
+# Dataset Preview
+![Dataset Preview](oil_project/ScreenShots/data_preview.png)
 
-# 📸 Project Screenshots
+# Actual vs Predicted Comparison
 
-## 📊 Dataset Preview
-
-![Dataset Preview](ScreenShots/Screenshot(214).png)
----
-
-## 📈 Actual vs Predicted Comparison
-
-![Comparison Table](https://dummyimage.com/1200x500/cccccc/000000&text=ADD+COMPARISON+TABLE+IMAGE+URL+HERE)
+![Comparison Table](oil_project/ScreenShots/
 
 ---
 
