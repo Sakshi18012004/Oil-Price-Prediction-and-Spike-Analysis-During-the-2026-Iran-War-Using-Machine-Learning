@@ -59,7 +59,7 @@ The dataset contains real-world geopolitical and oil market related information 
 
 ## 📊 Dataset Preview
 
-[ScreenShots/Screenshot (214).png](https://github.com/Sakshi18012004/Oil-Price-Prediction-and-Spike-Analysis-During-the-2026-Iran-War-Using-Machine-Learning/blob/main/ScreenShots/Screenshot%20(214).png?raw=true)
+![Dataset Preview](ScreenShots/Screenshot(214).png)
 ---
 
 ## 📈 Actual vs Predicted Comparison
