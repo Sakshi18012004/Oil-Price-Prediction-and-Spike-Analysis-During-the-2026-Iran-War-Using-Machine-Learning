@@ -76,26 +76,22 @@ The dataset contains real-world geopolitical and oil market related information 
 
 # Output Graph
 
-![Streamlit App](oil_project/ScreenShots/Streamlit_webapp.png)
+![Streamlit App](oil_project/ScreenShots/Output_graph.png)
 
-
-# 📊 Model Performance
-
-## Regression Results
+# Model Performance
+#Regression Results
 - R² Score: ~0.98
 - RMSE: ~1.57
 
-## Classification Results
+#Classification Results
 - Accuracy: ~80%
 - Precision: ~0.88
 - Recall: ~0.86
 - F1 Score: ~0.87
 
----
+ # How to Run the Project
 
-# ▶️ How to Run the Project
-
-## 1️⃣ Clone Repository
+# Clone Repository
 
 ```bash
 git clone https://github.com/your-username/your-repository-name.git
