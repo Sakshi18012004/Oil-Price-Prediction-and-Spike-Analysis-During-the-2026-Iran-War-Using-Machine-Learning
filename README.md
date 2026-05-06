@@ -70,13 +70,14 @@ The dataset contains real-world geopolitical and oil market related information 
 
 ![Metrics](oil_project/Classification_metrics.png)
 
----
+ # Streamlit Web Application
 
-## 🌐 Streamlit Web Application
+![Streamlit App](oil_project/ScreenShots/Streamlit_webapp.png)
 
-![Streamlit App](https://dummyimage.com/1200x500/cccccc/000000&text=ADD+STREAMLIT+APP+IMAGE+URL+HERE)
+# Output Graph
 
----
+![Streamlit App](oil_project/ScreenShots/Streamlit_webapp.png)
+
 
 # 📊 Model Performance
 
